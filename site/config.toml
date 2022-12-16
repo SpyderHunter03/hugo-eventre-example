@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://eventre.tristangoetz.me"
 title = "Eventre Hugo | Event Management Template"
-theme = "eventre-hugo"
+theme = "eventre"
 themesDir = "../.."
 # post pagination
 paginate = "3"
